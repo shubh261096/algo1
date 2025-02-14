@@ -19,3 +19,11 @@ The code repository (GitHub, ZIP file, or any other format).
 The APK file for testing. 
  
 Example inspiration: Listtonic (https://app.listonic.com/en), but feel free to implement your own approach.
+
+
+
+Submission -
+
+Please find the app-debug.apk file and algo1.mp4 for video demonstration of the app
+
+Please Note - The timeline was just one hour and I could do only that in this much time. Followed the MVVM pattern, added ROOM database, Used Kotlin, Coroutines, Filter Logic
